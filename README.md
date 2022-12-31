@@ -4,8 +4,7 @@ Demo Divelement.io
 Un pequeño resumen de los pasos tomados a tomar para llegar completar la tarea:
 
 	1. npm install
-	2. npm start
-Instalar cypress
+	2. npm start 
 	3. npm install cypress --save-dev
 	4. Instalar npx 
 	5. npx cypress open
